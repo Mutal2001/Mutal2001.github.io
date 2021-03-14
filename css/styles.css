@@ -162,6 +162,7 @@ sup {
 a {
   color: #bd5d38;
   text-decoration: none;
+  text-transform: lowercase;
   background-color: transparent;
 }
 a:hover {
@@ -9779,6 +9780,7 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #bd5d38 !important;
+  text-transform: capitalize;
 }
 
 a.text-primary:hover, a.text-primary:focus {
