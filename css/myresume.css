@@ -23,3 +23,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 a {
 	color: #900d09;
 }
+
+div#container {
+	background-color: Scarlet;
+	padding: 0.5rem;
+}
+
+h3 {
+	color: #ffffff;
+}	
