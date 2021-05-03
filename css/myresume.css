@@ -30,5 +30,17 @@ div#container {
 }
 
 h3 {
-	color: white;
+	color: #ffffff;
 }	
+
+div.child_div {
+	font-size: 1.5rem;
+	background-color: #ffffff;
+	margin: 0.5rem;
+	padding: 0.5rem;
+}
+
+.child_div p {
+	display: block;
+	margin: 0rem;
+}
